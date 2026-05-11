@@ -131,7 +131,7 @@ export default function Overview() {
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
         <Card
           title="Hourly traffic"
-          subtitle="Entries, exits, and store occupancy across the business day"
+          subtitle="Entry flow and live store occupancy across the business day"
           className="lg:col-span-2"
           testId="card-hourly-traffic"
         >
